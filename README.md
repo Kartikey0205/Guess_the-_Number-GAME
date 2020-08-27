@@ -1,0 +1,2 @@
+# Guess_the-_Number-GAME
+This is surely going to be enjoyable game for everyone!!  This Game is basically depends on how sharply you guess anything ,In this games program itself generate a random number and then ask users to play the game by guessing number and the game continues till the user guessed the correct number . I personally played this Game and I enjoyed the most , hope you will also enjoy this Game . And this is my first game which I had created in C-language.
